@@ -6,17 +6,24 @@ Exercices:
 1. Create a basic .html file with a header displaying "Hello World".
 
     1.1. Change the header to "My todo list".
+    
     1.2. Add a list of "todo items" for your daily chores.
+    
     1.3. Create another .html file. Create a table for your expenses.
+    
     1.4. Create another .html file. Add an image, a video, and a sound.
-      ## Notes: 
-        You may find this book useful: http://diveintohtml5.info/
+    
+    > Notes: 
+    > You may find this book useful: [http://diveintohtml5.info/](http://diveintohtml5.info/)
+    
     1.5. Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email).
+    
     1.6. Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
     
 2. Create a basic index.html file
     
     2.1. Create an empty style.css file and link it to the index.html using the link tag.
+    
     2.2. Learn why is a best-practice to use a reset stylesheet [here](http://meyerweb.com/eric/tools/css/reset/). Then include [normalize.css](http://necolas.github.io/normalize.css/) before linking your style.css.
 Add a basic page structure using HTML as depicted by the following picture:
 
@@ -24,10 +31,15 @@ Add a basic page structure using HTML as depicted by the following picture:
 
 3. Create a basic html with the structure of the image above.
     3.1. Add background to the header, footer, aside and nav. 
+    
     3.2. Add a global font definition (at html element) with a value of 14px, using a font-family you like. 
+    
     3.3. Center the header and footer text.
+    
     3.4. Experiment with specificity right now using CSS3 selectors http://specificity.keegan.st/
+    
     3.5 Now add the following classes to the document created above:
+    
       - To <header> add class .header
       - To <footer> add class .footer
       - To <section> add class .content
