@@ -1,6 +1,6 @@
 # Monstera Bootcamp
 
-For exercices create a new repo, and create files with the index number on the topics before. And send Pull requests for each of this topics
+For exercices create a new repo, and create the files inside folders with the index number on the topics before. And send Pull requests for each of this topics. All the folders and all PRs are must be
 
 Exercices:
 1. Create a basic .html file with a header displaying "Hello World".
